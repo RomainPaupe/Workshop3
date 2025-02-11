@@ -3,9 +3,9 @@ Decentralization Technologies - workshop 3
 
 # Team Member
 - Romain PAUPE
-- Thoams
-- Valentin
-- Noëmie
+- Thomas LANOTTE
+- Maxime LANGELIER
+- Noëmie NURIJANYAN
 
 # Model Betting Game
 
