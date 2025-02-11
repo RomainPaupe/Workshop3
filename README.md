@@ -3,7 +3,7 @@ Decentralization Technologies - workshop 3
 
 # Team Member
 - Romain PAUPE
-- Thomas LANOTTE
+- Thomas LANOOTE
 - Maxime LANGELIER
 - Noëmie NURIJANYAN
 
